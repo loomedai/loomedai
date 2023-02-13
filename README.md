@@ -18,13 +18,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=loomedai&label=Profile%20views&color=0e75b6&style=flat" alt="loomedai" />
 
-
-[![loomedai Streak](https://github-readme-streak-stats.herokuapp.com/?user=loomedai&theme=dark-smoky&fire=FFAB4C)](https://git.io/streak-stats)
-
-<!--- [![loomedai GitHub stats](https://github-readme-stats.vercel.app/api?username=loomedai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  --->
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loomedai4&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=loomedai&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=loomedai&theme=chartreuse-dark"></p>
 <br/>
