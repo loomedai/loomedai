@@ -36,7 +36,7 @@
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=loomedai&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
 
- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=loomedai&theme=chartreuse-dark"></p>
+ <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=loomedai&theme=tokyonight"></p>
 <br/>
 
 <!--- [![Loomedai's github stats](https://github-readme-stats.vercel.app/api?username=loomedai&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/loomedai/github-readme-stats) --->
