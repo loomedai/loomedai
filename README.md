@@ -39,7 +39,10 @@
 
 [![Loomedai's github stats](https://github-readme-stats.vercel.app/api?username=loomedai&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=loomedai&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loomedai&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--- (url)<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=loomedai&show_icons=true&locale=en&layout=compact&theme=radical" alt="loomedai" /></p>  --->
 
