@@ -23,6 +23,7 @@
 
 
 <br/>
+<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=loomedai&show_icons=true&locale=en&layout=compact&theme=radical" alt="loomedai" /></p>
 
 
 <!---
