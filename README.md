@@ -28,9 +28,8 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=loomedai&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 
-'
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=loomedai&count_private=true&show_icons=true&&theme=tokyonightk&include_all_commits=true" width="400"></p> 
-
+....
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loomedai&layout=compact&hide=TSQL&theme=tokyonight"></p>
 
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=loomedai&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" width="400"></p> 
