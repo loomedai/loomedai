@@ -10,6 +10,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 - 👋 Hi, I’m @loomedai
 
@@ -20,16 +21,6 @@
 
 <!--- [![loomedai GitHub stats](https://github-readme-stats.vercel.app/api?username=loomedai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  --->
 
- <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=loomedai=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loomedai=react&line_height=40&hide=css"/>
-    </a>
-</div
 
 <br/>
 <!--- (url)<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=loomedai&show_icons=true&locale=en&layout=compact&theme=radical" alt="loomedai" /></p>  --->
