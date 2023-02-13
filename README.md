@@ -33,7 +33,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=loomedai&theme=material-palenight&count_private=true&hide=contribs" width="400"></p> 
 
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=loomedai&theme=chartreuse-tokyonight"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=loomedai&theme=chartreuse-dark"></p>
 <br/>
 
 [![Loomedai's github stats](https://github-readme-stats.vercel.app/api?username=loomedai&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
