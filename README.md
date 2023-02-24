@@ -15,7 +15,7 @@
 
 <br>
 <p align="center" >
-- 👋 Hi, I’m @loomedai
+- 👋 Hi, I’m loomedai
   <br>
 
   
